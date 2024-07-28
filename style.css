@@ -1,0 +1,21 @@
+body {
+background-color: darkolivegreen;
+font-family: "Gill Sans", sans-serif;
+color: azure;
+}
+
+h1 {
+    color:bisque; 
+}
+
+.texto-centrado {
+    text-align:center;
+}
+
+.texto {
+    text-align:justify;
+}
+
+.libros {
+    text-align: center;
+}
